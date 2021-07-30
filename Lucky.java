@@ -74,6 +74,10 @@ public class Lucky {
 
     }
 
+
+     
+   
+    //denglulu
     // 登录
     public static void logIn(Scanner input) {
         System.out.println("[系统 > 登录]");
